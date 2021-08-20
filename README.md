@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![park0219's GitHub stats](https://github-readme-stats.vercel.app/api?username=park0219&show_icons=true&theme=dracula)
 <!--
 **park0219/park0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
