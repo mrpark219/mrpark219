@@ -1,22 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Park SungHwan&fontSize=70&animation=twinkling)
+<div align="center" style="text-align:center">
+	
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ParkSungHwan&fontSize=70&animation=twinkling)    
+	
+</div>
 
-<p align="center">
-    ![park0219's GitHub stats](https://github-readme-stats.vercel.app/api?username=park0219&show_icons=true&theme=dracula)
-
-    [![park0219's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park0219&hide=html)](https://github.com/park0219/github-readme-stats)  
-</p>
-
-<!--
-**park0219/park0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="text-align:center">
+  
+  ![park0219's GitHub stats](https://github-readme-stats.vercel.app/api?username=park0219&show_icons=true&theme=dracula)
+	
+  [![park0219's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park0219&hide=html)](https://github.com/park0219/github-readme-stats)  
+  
+</div>
