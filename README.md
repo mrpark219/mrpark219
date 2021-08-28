@@ -1,9 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Park SungHwan&fontSize=70&animation=twinkling)
 
+<p align="center">
+    ![park0219's GitHub stats](https://github-readme-stats.vercel.app/api?username=park0219&show_icons=true&theme=dracula)
 
-![park0219's GitHub stats](https://github-readme-stats.vercel.app/api?username=park0219&show_icons=true&theme=dracula)
-
-[![park0219's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park0219&hide=html)](https://github.com/park0219/github-readme-stats)
+    [![park0219's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park0219&hide=html)](https://github.com/park0219/github-readme-stats)  
+</p>
 
 <!--
 **park0219/park0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
