@@ -27,9 +27,9 @@
 
 <div align="center" style="text-align:center">
   
-  ![park0219's GitHub stats](https://github-readme-stats.vercel.app/api?username=park0219&show_icons=true&theme=dracula)
+  ![mrpark219's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpark219&show_icons=true&theme=dracula)
 	
-  [![park0219's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park0219&hide=html)](https://github.com/park0219/github-readme-stats)  
+  [![mrpark219's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpark219&hide=html)](https://github.com/mrpark219/github-readme-stats)  
   
-  [![park0219's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=park0219ok)](https://solved.ac/park0219ok)
+  [![mrpark219's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=park0219ok)](https://solved.ac/park0219ok)
 </div>
