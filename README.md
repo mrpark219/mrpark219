@@ -31,5 +31,5 @@
 	
   [![mrpark219's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpark219&hide=html)](https://github.com/mrpark219/github-readme-stats)  
   
-  [![mrpark219's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=park0219ok)](https://solved.ac/park0219ok)
+  [![mrpark219's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrpark219)](https://solved.ac/mrpark219)
 </div>
