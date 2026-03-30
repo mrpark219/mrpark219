@@ -1,4 +1,5 @@
-<h2 align="left">👨‍💻 박성환 | Server Developer</h2>
+<h1 align="left">👨‍💻 박성환</h1>
+<h3 align="left">Server Developer</h3>
 
 <p align="left">
 복잡한 흐름을 <strong>신뢰할 수 있는 구조</strong>로 정리하는 일을 좋아합니다.<br/>
@@ -7,13 +8,13 @@
 </p>
 
 <p align="left">
-  <a href="https://mrpark219.github.io">
+  <a href="https://mrpark219.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/mrpark219">
+  <a href="https://www.linkedin.com/in/mrpark219" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:mrpark219@gmail.com">
+  <a href="mailto:mrpark219@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -28,22 +29,13 @@
 ✔ 기술 학습 내용을 글과 코드로 구조화하여 기록하고 공유합니다.
 ```
 
-- **Domain**  
-  복잡한 비즈니스 도메인을 분석하고, 명확한 책임과 흐름을 갖는 구조로 개선합니다.
-
-- **Stability**  
-  데이터 정합성과 운영 안정성을 고려한 배치 처리 및 자동화 시스템을 설계합니다.
-
-- **Architecture**  
-  변경에 유연하고 유지보수하기 쉬운 클린 아키텍처와 객체지향 설계를 지향합니다.
-
 ---
 
 ## 🛠 Tech Stack
 
 | Category           | Stack                                                |
 | ------------------ | ---------------------------------------------------- |
-| **Language**       | Java, Python, JavaScript                             |
+| **Language**       | Java, Kotlin, Python, JavaScript                     |
 | **Framework**      | Spring Boot, Spring Data JPA, Querydsl, Spring Batch |
 | **Infra / DevOps** | MySQL, Redis, Docker, AWS, GitHub Actions            |
 
@@ -53,7 +45,7 @@
 
 ### 🏊‍♂️🌊 deep-dive
 
-> 기술적 고민과 학습 내용을 깊이 있게 정리하고 있습니다.
+> 기술적 고민과 학습 내용을 깊이 있게 정리하는 아카이브입니다.  
 > 🔗 https://github.com/mrpark219/deep-dive
 
 ### 🏆 goldroad-backend
